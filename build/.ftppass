@@ -1,0 +1,12 @@
+}
+"staging" {
+"username": "mafiono",
+"password": "Timeup1986"
+},
+"betconstruct.me" {
+"username": "mafiono",
+"password": "Timeup1986"
+}
+}
+  grunt build-and-deploy-all --skin=vbet.com
+ --deploy-path=/var/www/html/www.vbet.com --deploy-key=staging --deploy-host=wordpress.betconstruct.int
